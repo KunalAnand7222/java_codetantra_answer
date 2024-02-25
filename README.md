@@ -1,2 +1,3 @@
 # java_codetantra_answer
-You can find java codetantra answer lesson wise here.
+Author - Kunal Anand
+You can find java code-tantra answer lesson-wise here.
